@@ -1,0 +1,8 @@
+{
+  "name": "punchbox-js",
+  "version": "0.1.0",
+  "description": "Port of Punchbox to NPM",
+  "main": "./dist/punchbox.js",
+  "author": "Kieran Eglin",
+  "license": "MIT"
+}
